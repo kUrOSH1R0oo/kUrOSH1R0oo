@@ -47,15 +47,13 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" /><br>Ruby
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br>HTML5
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /><br>CSS3
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br>JavaScript
-    </td>
   </tr>
 </table>
 
+<h3>🧪 What I Specialize In</h3>
+<ul>
+  <li>💥 <strong>Offensive Security</strong> – Focused on ethical hacking, red teaming, and exploit development.</li>
+  <li>🦠 <strong>Malware Development & Analysis</strong> – Creating and analyzing malware samples to understand threats deeply.</li>
+  <li>🌐 <strong>Networking</strong> – Understanding protocols, traffic, and how systems communicate.</li>
+  <li>🧱 <strong>Web Development</strong> – Crafting and breaking web apps to understand both front and back ends.</li>
+</ul>
