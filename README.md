@@ -57,7 +57,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /><br>Linux
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2021.svg" width="40" /><br>Windows
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" /><br>Windows
     </td>
   </tr>
 </table>
