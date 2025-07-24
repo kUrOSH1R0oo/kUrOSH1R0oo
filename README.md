@@ -72,36 +72,11 @@
 
 <h3>🔗 Check More of My Platforms</h3>
 
-<p>
-  <a href="https://kur0sh1r0.gitbook.io/ctf-writeups" target="_blank" style="text-decoration: none;">
-    <img src="https://seeklogo.com/images/G/gitbook-logo-360E051F98-seeklogo.com.png" alt="GitBook" width="30" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px; font-weight: bold;">GitBook Writeups</span>
-  </a>
-</p>
+<ul>
+  <li><a href="https://kur0sh1r0.gitbook.io/ctf-writeups" target="_blank"><strong>GitBook Writeups</strong></a></li>
+  <li><a href="https://medium.com/@kur0Sh1r0" target="_blank"><strong>Medium Articles</strong></a></li>
+  <li><a href="https://play.picoctf.org/users/Kur0Sh1r0" target="_blank"><strong>picoCTF</strong></a></li>
+  <li><a href="https://tryhackme.com/p/KuroShiro" target="_blank"><strong>TryHackMe</strong></a></li>
+  <li><a href="https://www.codewars.com/users/kUrOSH1R0oo" target="_blank"><strong>Codewars</strong></a></li>
+</ul>
 
-<p>
-  <a href="https://medium.com/@kur0Sh1r0" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" width="30" style="vertical-align: middle; filter: invert(1);"/>
-    <span style="margin-left: 8px; font-weight: bold;">Medium Articles</span>
-  </a>
-</p>
-
-<p>
-  <a href="https://play.picoctf.org/users/Kur0Sh1r0" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flag_icon_red_4.svg/1024px-Flag_icon_red_4.svg.png" alt="picoCTF" width="30" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px; font-weight: bold;">picoCTF</span>
-  </a>
-</p>
-
-<p>
-  <a href="https://tryhackme.com/p/KuroShiro" target="_blank" style="text-decoration: none;">
-    <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" width="140" style="vertical-align: middle;"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://www.codewars.com/users/your-username" target="_blank" style="text-decoration: none;">
-    <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="Codewars" width="30" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px; font-weight: bold;">Codewars</span>
-  </a>
-</p>
