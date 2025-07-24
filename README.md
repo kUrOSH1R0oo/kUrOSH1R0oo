@@ -50,6 +50,18 @@
   </tr>
 </table>
 
+<h3>🖥️ Most Used Operating Systems</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /><br>Linux
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2021.svg" width="40" /><br>Windows
+    </td>
+  </tr>
+</table>
+
 <h3>🧪 What I Specialize In</h3>
 <ul>
   <li>💥 <strong>Offensive Security</strong> – Focused on ethical hacking, red teaming, and exploit development.</li>
