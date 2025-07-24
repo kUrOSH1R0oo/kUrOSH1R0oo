@@ -4,17 +4,29 @@
 </p>
 
 <p>
-  My real name is <strong>Ivan</strong>. I'm a <strong>2nd-year Information Technology student</strong> from the Polytechnic University of the Philippines – Sta. Maria, Bulacan Campus 🇵🇭.
+  My real name is Ivan. I'm a 2nd-year Information Technology student from the Polytechnic University of the Philippines – Sta. Maria, Bulacan Campus.
 </p>
 
 <p>
-  I'm deeply passionate about <strong>Cybersecurity</strong> and spend most of my time learning, breaking, and building things in this field. I'm currently active as a:
+  I’m into cybersecurity — not just because it sounds cool, but because I genuinely enjoy learning how things work, how they break, and how they can be defended. I'm active in CTFs, I hunt bugs on the side, and I spend a lot of time researching how malware operates. I’ve also written a few for educational purposes.
 </p>
 
+<h2>🧠 A Bit About Me</h2>
+
+<p>
+  I’m the quiet type. I enjoy being alone, and most of the time I just sit down with my laptop and dive deep into my own world. But when you bring up anything tech-related, I can talk nonstop. Whether it’s exploits, shellcode, weird bugs, or how a certain vulnerability works — I’m in.
+</p>
+
+<p>
+  I don't consider myself naturally smart, but I am consistent. I fail a lot, but I learn every single time. I build tools, break things, study hard, and try to improve every day — even if it's just by 1%.
+</p>
+
+<h2>💻 What I Do</h2>
+
 <ul>
-  <li>🎯 <strong>CTF Player</strong> – I enjoy solving challenges that test logic, reverse engineering, web, pwn, forensics, and more.</li>
-  <li>🐞 <strong>Bug Bounty Hunter</strong> – I look for real-world vulnerabilities in websites and applications to help secure the digital space.</li>
-  <li>🔬 <strong>Security Researcher</strong> – I dig deep into systems and software to understand how they work and how attackers exploit them.</li>
-  <li>💣 <strong>Malware Developer</strong> – I create malware samples for educational and research purposes to better understand how to defend against threats.</li>
+  <li><strong>CTF Player</strong> – I play CTFs to sharpen my skills and test myself against tough challenges.</li>
+  <li><strong>Bug Bounty Hunter</strong> – I report real bugs in real systems and contribute to making the internet safer.</li>
+  <li><strong>Security Researcher</strong> – I study vulnerabilities, analyze malware, and explore anything that can teach me something valuable.</li>
+  <li><strong>Malware Developer</strong> – I write and test malware samples for educational purposes — it's part of how I learn how attackers think.</li>
 </ul>
 
