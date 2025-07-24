@@ -36,7 +36,7 @@ I’m a quiet coder who thrives in solitude, but mention exploits, shellcode, or
 
 ### 💻 Languages
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" title="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50" title="Ruby" />
@@ -53,8 +53,6 @@ I’m a quiet coder who thrives in solitude, but mention exploits, shellcode, or
 - **🦠 Malware Development & Analysis**: Building and dissecting malware to understand threats.
 - **🌐 Networking**: Mastering protocols, traffic analysis, and system communication.
 - **🧱 Web Development**: Creating and breaking web apps to understand both sides.
-
----
 
 ## 🌐 Connect with Me
 
@@ -76,8 +74,6 @@ I’m a quiet coder who thrives in solitude, but mention exploits, shellcode, or
   </a>
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -85,9 +81,6 @@ I’m a quiet coder who thrives in solitude, but mention exploits, shellcode, or
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kUrOSH1R0oo&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
-
 <div align="center">
   <p>💾 "The only way to learn is to break things and fix them."</p>
-  <p>Let's hack the planet—ethically! 🌍</p>
 </div>
