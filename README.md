@@ -19,8 +19,6 @@
   </a>
 </div>
 
----
-
 ## 🚀 About Me
 
 Hey, I'm **Ivan**, aka **Kur0sh1ro**, a 2nd-year BSIT student at **Polytechnic University of the Philippines – Sta. Maria, Bulacan**. I’m a cybersecurity enthusiast who’s obsessed with understanding how systems work, how they break, and how to secure them. My world revolves around **CTFs**, **bug bounties**, and diving deep into the mechanics of **malware**—all for educational purposes, of course! 🖥️
