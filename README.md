@@ -1,82 +1,99 @@
-<h1 align="center">Hey there 👋, I'm Kur0sh1ro</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Malware+Developer+%F0%9F%92%BB;Bug+Bounty+Hunter+%F0%9F%90%9B;CTF+Player+%F0%9F%94%A5;BSIT+Student+@+PUP+Sta.+Maria" alt="Typing SVG" />
-</p>
+# <div align="center">👾 Welcome to Kur0sh1ro's Cyber Lair 👾</div>
 
-<p>
-  My real name is Ivan. I'm a 2nd-year Information Technology student from the Polytechnic University of the Philippines – Sta. Maria, Bulacan Campus.
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=800&color=00FF88&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast+%F0%9F%94%92;Malware+Developer+%F0%9F%92%BE;Bug+Bounty+Hunter+%F0%9F%90%9B;CTF+Player+%F0%9F%94%A5;BSIT+Student+@+PUP+Sta.+Maria" alt="Typing SVG" />
+</div>
 
-<p>
-  I’m into cybersecurity — not just because it sounds cool, but because I genuinely enjoy learning how things work, how they break, and how they can be defended. I'm active in CTFs, I hunt bugs on the side, and I spend a lot of time researching how malware operates. I’ve also written a few for educational purposes.
-</p>
+<div align="center">
+  <a href="https://github.com/Kur0sh1ro">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://medium.com/@kur0Sh1r0">
+    <img src="https://img.shields.io/badge/-Medium-00AB6C?style=flat-square&logo=medium" />
+  </a>
+  <a href="https://tryhackme.com/p/KuroShiro">
+    <img src="https://img.shields.io/badge/-TryHackMe-00C4B4?style=flat-square&logo=tryhackme" />
+  </a>
+  <a href="https://play.picoctf.org/users/Kur0Sh1r0">
+    <img src="https://img.shields.io/badge/-picoCTF-FF4D4D?style=flat-square&logo=picoctf" />
+  </a>
+</div>
 
-<h2>🧠 A Bit About Me</h2>
+---
 
-<p>
-  I’m the quiet type. I enjoy being alone, and most of the time I just sit down with my laptop and dive deep into my own world. But when you bring up anything tech-related, I can talk nonstop. Whether it’s exploits, shellcode, weird bugs, or how a certain vulnerability works — I’m in.
-</p>
+## 🚀 About Me
 
-<p>
-  I don't consider myself naturally smart, but I am consistent. I fail a lot, but I learn every single time. I build tools, break things, study hard, and try to improve every day — even if it's just by 1%.
-</p>
+Hey, I'm **Ivan**, aka **Kur0sh1ro**, a 2nd-year BSIT student at **Polytechnic University of the Philippines – Sta. Maria, Bulacan**. I’m a cybersecurity enthusiast who’s obsessed with understanding how systems work, how they break, and how to secure them. My world revolves around **CTFs**, **bug bounties**, and diving deep into the mechanics of **malware**—all for educational purposes, of course! 🖥️
 
-<h2>💻 What I Do</h2>
+I’m a quiet coder who thrives in solitude, but mention exploits, shellcode, or vulnerabilities, and I’ll light up like a terminal with *neon syntax highlighting*. I’m not a genius, but I’m relentless—learning from every failure and aiming to level up by 1% every day.
 
-<ul>
-  <li><strong>CTF Player</strong> – I play CTFs to sharpen my skills and test myself against tough challenges.</li>
-  <li><strong>Bug Bounty Hunter</strong> – I report real bugs in real systems and contribute to making the internet safer.</li>
-  <li><strong>Security Researcher</strong> – I study vulnerabilities, analyze malware, and explore anything that can teach me something valuable.</li>
-  <li><strong>Malware Developer</strong> – I write and test malware samples for educational purposes — it's part of how I learn how attackers think.</li>
-</ul>
+---
 
-<h2>🧠 Tech Stack & Skillsets</h2>
+## 🛠️ What I Do
 
-<h3>💻 Languages I Use</h3>
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><br>Python
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" /><br>Bash
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" /><br>C
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" /><br>Ruby
-    </td>
-  </tr>
-</table>
+- **🔍 CTF Player**: Tackling challenges to sharpen my hacking skills and outsmart puzzles.
+- **🪲 Bug Bounty Hunter**: Finding and reporting vulnerabilities to make the internet a safer place.
+- **🕵️ Security Researcher**: Exploring vulnerabilities, analyzing malware, and uncovering digital secrets.
+- **💉 Malware Developer**: Crafting and studying malware to understand attacker mindsets (ethically, of course!).
 
-<h3>🖥️ Most Used Operating Systems</h3>
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /><br>Linux
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" /><br>Windows
-    </td>
-  </tr>
-</table>
+---
 
-<h3>🧪 What I Specialize In</h3>
-<ul>
-  <li>💥 <strong>Offensive Security</strong> – Focused on ethical hacking, red teaming, and exploit development.</li>
-  <li>🦠 <strong>Malware Development & Analysis</strong> – Creating and analyzing malware samples to understand threats deeply.</li>
-  <li>🌐 <strong>Networking</strong> – Understanding protocols, traffic, and how systems communicate.</li>
-  <li>🧱 <strong>Web Development</strong> – Crafting and breaking web apps to understand both front and back ends.</li>
-</ul>
+## 💾 Tech Stack & Skills
 
-<h3>🔗 Check More of My Platforms</h3>
+### 💻 Languages
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" title="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50" title="Ruby" />
+</div>
 
-<ul>
-  <li><a href="https://kur0sh1r0.gitbook.io/ctf-writeups" target="_blank"><strong>GitBook Writeups</strong></a></li>
-  <li><a href="https://medium.com/@kur0Sh1r0" target="_blank"><strong>Medium Articles</strong></a></li>
-  <li><a href="https://play.picoctf.org/users/Kur0Sh1r0" target="_blank"><strong>picoCTF</strong></a></li>
-  <li><a href="https://tryhackme.com/p/KuroShiro" target="_blank"><strong>TryHackMe</strong></a></li>
-  <li><a href="https://www.codewars.com/users/kUrOSH1R0oo" target="_blank"><strong>Codewars</strong></a></li>
-</ul>
+### 🖥️ Operating Systems
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" title="Windows" />
+</div>
 
+### 🔬 Specializations
+- **💥 Offensive Security**: Ethical hacking, red teaming, and exploit development.
+- **🦠 Malware Development & Analysis**: Building and dissecting malware to understand threats.
+- **🌐 Networking**: Mastering protocols, traffic analysis, and system communication.
+- **🧱 Web Development**: Creating and breaking web apps to understand both sides.
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://kur0sh1r0.gitbook.io/ctf-writeups">
+    <img src="https://img.shields.io/badge/-GitBook-7B36ED?style=for-the-badge&logo=gitbook" />
+  </a>
+  <a href="https://medium.com/@kur0Sh1r0">
+    <img src="https://img.shields.io/badge/-Medium-00AB6C?style=for-the-badge&logo=medium" />
+  </a>
+  <a href="https://play.picoctf.org/users/Kur0Sh1r0">
+    <img src="https://img.shields.io/badge/-picoCTF-FF4D4D?style=for-the-badge&logo=picoctf" />
+  </a>
+  <a href="https://tryhackme.com/p/KuroShiro">
+    <img src="https://img.shields.io/badge/-TryHackMe-00C4B4?style=for-the-badge&logo=tryhackme" />
+  </a>
+  <a href="https://www.codewars.com/users/kUrOSH1R0oo">
+    <img src="https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=codewars" />
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kur0sh1ro&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kur0sh1ro&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <p>💾 "The only way to learn is to break things and fix them."</p>
+  <p>Let's hack the planet—ethically! 🌍</p>
+</div>
