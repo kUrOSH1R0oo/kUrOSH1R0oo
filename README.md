@@ -25,16 +25,12 @@ Hey, I'm **Ivan**, aka **Kur0sh1ro**, a 2nd-year BSIT student at **Polytechnic U
 
 I’m a quiet coder who thrives in solitude, but mention exploits, shellcode, or vulnerabilities, and I’ll light up like a terminal with *neon syntax highlighting*. I’m not a genius, but I’m relentless—learning from every failure and aiming to level up by 1% every day.
 
----
-
 ## 🛠️ What I Do
 
 - **🔍 CTF Player**: Tackling challenges to sharpen my hacking skills and outsmart puzzles.
 - **🪲 Bug Bounty Hunter**: Finding and reporting vulnerabilities to make the internet a safer place.
 - **🕵️ Security Researcher**: Exploring vulnerabilities, analyzing malware, and uncovering digital secrets.
 - **💉 Malware Developer**: Crafting and studying malware to understand attacker mindsets (ethically, of course!).
-
----
 
 ## 💾 Tech Stack & Skills
 
