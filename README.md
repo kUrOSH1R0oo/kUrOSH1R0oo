@@ -4,21 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=800&color=00FF88&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast+%F0%9F%94%92;Malware+Developer+%F0%9F%92%BE;Bug+Bounty+Hunter+%F0%9F%90%9B;CTF+Player+%F0%9F%94%A5;BSIT+Student+@+PUP+Sta.+Maria" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/Kur0sh1ro">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://medium.com/@kur0Sh1r0">
-    <img src="https://img.shields.io/badge/-Medium-00AB6C?style=flat-square&logo=medium" />
-  </a>
-  <a href="https://tryhackme.com/p/KuroShiro">
-    <img src="https://img.shields.io/badge/-TryHackMe-00C4B4?style=flat-square&logo=tryhackme" />
-  </a>
-  <a href="https://play.picoctf.org/users/Kur0Sh1r0">
-    <img src="https://img.shields.io/badge/-picoCTF-FF4D4D?style=flat-square&logo=picoctf" />
-  </a>
-</div>
-
 ## 🚀 About Me
 
 Hey, I'm **Ivan**, aka **Kur0sh1ro**, a 2nd-year BSIT student at **Polytechnic University of the Philippines – Sta. Maria, Bulacan**. I’m a cybersecurity enthusiast who’s obsessed with understanding how systems work, how they break, and how to secure them. My world revolves around **CTFs**, **bug bounties**, and diving deep into the mechanics of **malware**—all for educational purposes, of course! 🖥️
