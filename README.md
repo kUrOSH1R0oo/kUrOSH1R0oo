@@ -63,7 +63,6 @@ I’m a quiet coder who thrives in solitude, but mention exploits, shellcode, or
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kUrOSH1R0oo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kUrOSH1R0oo&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
