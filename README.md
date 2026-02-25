@@ -59,6 +59,13 @@ I’m a quiet coder who thrives in solitude, but mention exploits, shellcode, or
   </a>
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kur0sh1r0&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kur0sh1r0&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
 <div align="center">
   <p>💾 "The only way to learn is to break things and fix them."</p>
 </div>
