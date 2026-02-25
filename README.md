@@ -48,21 +48,15 @@ I’m a quiet coder who thrives in solitude, but mention exploits, shellcode, or
   <a href="https://medium.com/@kur0Sh1r0">
     <img src="https://img.shields.io/badge/-Medium-00AB6C?style=for-the-badge&logo=medium" />
   </a>
-  <a href="https://play.picoctf.org/users/Kur0Sh1r0">
+  <a href="https://play.picoctf.org/users/kur0f1n3st">
     <img src="https://img.shields.io/badge/-picoCTF-FF4D4D?style=for-the-badge&logo=picoctf" />
   </a>
-  <a href="https://tryhackme.com/p/KuroShiro">
+  <a href="https://tryhackme.com/p/A1S.Kur0Sh1r0">
     <img src="https://img.shields.io/badge/-TryHackMe-00C4B4?style=for-the-badge&logo=tryhackme" />
   </a>
   <a href="https://www.codewars.com/users/kUrOSH1R0oo">
     <img src="https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=codewars" />
   </a>
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kUrOSH1R0oo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
